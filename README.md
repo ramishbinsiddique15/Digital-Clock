@@ -10,7 +10,7 @@ A simple digital clock created using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [Contact](#contact)
 ## Introduction
 
 This project is a basic digital clock that displays the current time and updates every second. It demonstrates the use of HTML for structure, CSS for styling, and JavaScript for functionality.
@@ -47,3 +47,5 @@ Contributions are welcome! If you have any ideas or improvements, feel free to f
 5. Push to the branch (git push origin feature-branch).
 6. Create a new Pull Request.
 
+## Contact
+For any inquiries or feedback, you can reach out to me at [ramishbinsiddique24@gmail.com]
